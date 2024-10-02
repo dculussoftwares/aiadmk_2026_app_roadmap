@@ -2,7 +2,9 @@
 
 This application will be created and mainteined by our own intrest, Party members inputs needed for improvements. Feel free to contact #Rathathin_Rathangaley
 
-## Add your appilcation expectation on `Issues` tab! We will start dicuss !!
+## Add your appilcation expectation on `Issues` tab or [Click here](https://viewer.dculus.com/eBZwzFmuuSmJLV) !  We will start dicuss !!
+
+Form link: https://viewer.dculus.com/eBZwzFmuuSmJLV
 
 ![alt text](https://aiadmkmedicalwing.com/assets/images/banner_1.jpg)
 
@@ -12,7 +14,9 @@ This application will be created and mainteined by our own intrest, Party member
 
 இந்த செயலி நமது சொந்த விருப்பத்தால் உருவாக்கப்பட்டு பராமரிக்கப்படும். கழக உறுப்பினர்களின் ஆதரவு மற்றும் உதவிகள் தேவை. வாருங்கள் தயக்கம் இன்றி சேர்ந்து பயணிப்போம் #இரத்தத்தின்_ரதங்களே
 
-உங்கள் கருத்துக்களை `Issues` tab - இல் பதிவிடவும்! விவாதிப்போம் !!
+##உங்கள் கருத்துக்களை `Issues` tab - இல் பதிவிடவும் அல்லது [இங்கே கிளிக் செய்யவும்](https://viewer.dculus.com/eBZwzFmuuSmJLV)! விவாதிப்போம் !!
+
+படிவ இணைப்பு: https://viewer.dculus.com/eBZwzFmuuSmJLV
 
 ![alt text](https://aiadmkmedicalwing.com/assets/images/banner_1.jpg)
 
